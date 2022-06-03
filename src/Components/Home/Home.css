@@ -1,0 +1,28 @@
+.home{
+background-color:#fff;
+width: 100%;
+position: fixed;
+right: 0;
+height: 100vh;
+left: 150px;
+color: black;
+padding: 15px;
+display: flex;
+gap: 9px;
+
+}
+.analytics{
+   padding: 10px;
+    width: 55%;
+    height: 100vh;
+
+}
+.analytics img{
+    margin: 7px;
+}
+
+.card{
+    width: 40%;
+    height: 100vh;
+
+}

@@ -1,1 +1,1 @@
-# THIS IS THE SECOND CAPSTONE PROJECT FOR SIDE HUSTLE REACT TRACK GROUP 2 
+# This is the oficial second capstone project

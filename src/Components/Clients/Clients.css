@@ -1,0 +1,16 @@
+.clients{
+background-color:#fff;
+ width: 90%;
+ position: relative;
+ right: 0;
+ height: 100vh;
+ left: 150px;
+ color: black;
+ padding: 15px;
+        
+        }
+        .clients h1{
+            text-align: center;
+
+        }
+  
